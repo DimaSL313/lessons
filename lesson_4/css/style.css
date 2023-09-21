@@ -1,0 +1,58 @@
+/* reset style*/
+@import url("reset.css");
+*{
+    color: blueviolet;
+}
+.title{
+    color: red;
+}
+
+.head p{
+    color: green;
+}
+li{
+    color: royalblue;
+}
+#creation{
+    color: chartreuse;
+}
+.text-block-three,
+.text-block-four {
+    color: brown;
+}
+.page-block > p {
+    color: burlywood;
+}
+/* [class*="text-block-two"]{
+    color: red;
+} */
+.img-block-two + p {
+    color: aqua;
+}
+.text-block-two-one ~ p {
+    color: black;
+}
+.text-block-three-two * {
+    color: coral;
+}
+.text-block-three-one .text {
+    color: darkkhaki;
+}
+.lift {
+color: deepskyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
