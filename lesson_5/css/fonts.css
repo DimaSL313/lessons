@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Turbota";
+    src: url(../fonts/turbota/TurbotaBook.woff2) format("woff2"),
+    url(../fonts/turbota/TurbotaBook.woff) format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Turbota";
+    src: url(../fonts/turbota/TurbotaBold.woff2) format("woff2"),
+    url(../fonts/turbota/TurbotaBold.woff) format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Turbota";
+    src: url(../fonts/turbota/TurbotaHeavy.woff2) format("woff2"),
+    url(../fonts/turbota/TurbotaHeavy.woff) format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
