@@ -1,0 +1,286 @@
+/* connect fonts */
+@import url("fonts.css");
+/* reset style*/
+@import url("reset.css");
+
+
+header{
+    margin: 100px;
+}
+.content{
+    color: red;
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    /* border: 10px solid blue; */
+    border-top: 10px solid blue;
+    border-left: 15px dotted violet;
+    border-right: 20px dashed yellow;
+    border-bottom: 25px double gray;
+    border-radius: 50px;
+    outline: 5px black solid;
+    box-shadow:12px 5.2px 10.2px -12px rgba(0, 0, 0, 0.104),
+40.2px 17.4px 34.4px -12px rgba(0, 0, 0, 0.142),
+180px 78px 154px -12px rgba(0, 0, 0, 0.24);
+    opacity: 0.7;
+}
+.content li{
+    color: green;
+}
+
+/* Licencing block */
+
+.licencing {
+    max-width: 1218px;
+    font-family: "Inter", sans-serif;
+    line-height: 1.46;
+    margin: 0 auto 100px;
+    
+}
+.title-licencing {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.square{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-color: #40DDB6;
+}
+.sub-title-licencing {
+    display: inline-block;
+    color:#37393F ;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 16px;
+
+}
+.main-title-licencing {
+    color: #37393F;
+    font-family: "Poppins", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.21;
+    
+}
+.icons {
+    margin-bottom: 100px;
+
+}
+.h2-licencing {
+    color: #37393F;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.21;
+    margin-bottom: 11px;
+}
+.text-licencing {
+    color: #7D7D7D;
+    font-size: 18px;
+    margin-bottom: 32px;
+
+}
+.h3-licencing {
+    color: #37393F;
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    
+}
+.photography {
+    margin-bottom: 100px;
+}
+.fonts {
+}
+.span-color {
+    color: #40DDB6;
+    font-weight: 400;
+}
+.span-weight {
+    font-weight: 500;
+}
+
+/* Project Information Block */
+
+.project {
+    color:#7D7D7D;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    line-height: 1.46;
+    max-width: 830px;
+    margin: 0 auto 100px;
+    
+}
+.project li {
+    list-style: inherit;
+    
+}
+
+
+.project-title {
+    color: #37393F;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.27;
+    margin-bottom: 13px;
+
+}
+.project-block-1 {
+    margin-bottom:35px ;
+}
+.projeck-block-2 { 
+}
+.projeck-block-2 li {
+    padding-bottom: 35px;
+}
+.list {
+    font-weight: 500;
+    padding-left: 32px;
+    
+}
+.project-block-3 {
+    margin-bottom: 35px;
+}
+.projeck-block-4 {
+}
+.projeck-block-4 li {
+    padding-bottom: 35px;
+}
+.project-block-5 {
+}
+
+/* Clothing for Women block */
+
+.clothing-violet {
+    width: 6px;
+    height: 28px;
+    background-color:#8A33FD ;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.clothing-title-line {
+    display: inline-block;
+}
+.clothing-content {
+    padding-left: 21px;
+
+}
+.clothing {
+    max-width:1240px ;
+    font-family: "Causten", sans-serif;
+    color: #807D7E;
+    font-size: 20px;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    margin: 0 auto 100px;
+}
+.clothing-title {
+    font-family: "Core Sans C", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.19;
+    letter-spacing: 0.56px;
+    color:#3C4242 ;
+    margin-bottom: 30px;
+
+}
+.clothing-subtitle {
+    font-family: "Core Sans C", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.67;
+    margin-bottom: 25px;
+    
+}
+.clothing-text {
+    margin-bottom: 20px;
+
+}
+.clothing-span {
+    font-weight: 700;
+}
+.clothing-subtext {
+    margin-bottom: 25px;
+}
+.clothing-link {
+}
+
+/* We Develop Create Custom Jewels */
+
+.jewels {
+    max-width: 1103px;
+    min-height: 520px;
+    font-family: "Cormorant Infant", sans-serif ;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #606060;
+    margin: 0 auto 400px;
+
+}
+.jewels-left {
+    width: 503px;
+    display: inline-block;
+    margin-right: 75px ;
+    padding-top: 73px;
+}
+.jewels-sublitle {
+    color: #D58417;
+    font-size: 20px;
+    margin-bottom: 27px;
+    line-height: 1;
+}
+.jewels-title {
+    color: #000;
+    font-size: 64px;
+    line-height: 1;
+    margin-bottom: 31px;
+}
+.jewels-text {
+}
+.jewels-right {
+    display: inline-block;
+    vertical-align: top;
+}
+.jewels-img-left {
+    display: inline-block;
+    font-size: 0;
+    border: 1px solid #502203;
+    border-radius: 235px;
+    margin: 85px 30px 0 0;
+}
+
+.jewels-img-left img {
+    margin: 14px 10px -10px -14px;
+
+}
+.jewels-img-right {
+    display: inline-block;
+    font-size: 0;
+    border: 1px solid #502203;
+    border-radius: 235px;
+    vertical-align: top;
+}
+.jewels-img-right img{
+    margin: 19px 11px -11px -19px;
+}
+
+/* Footer */
+
+.contact{
+    color: blue;
+    font-family: "Cormorant Infant", sans-serif ;
+    font-size: 30px;
+    font-weight: 700;
+    color: #606060;
+    text-align: center;
+    border: 5px solid gray;
+    border-radius: 25px;
+    max-width: 600px;
+    margin: 0 auto;
+}
